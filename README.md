@@ -6,7 +6,7 @@ attributes and properties](https://developer.arm.com/documentation/102376/0200)
 
 3.[Learn the architecture - AArch64 memory management](https://developer.arm.com/documentation/101811/0103)
 
-4.[Learn the architecture - Arm Generic Interrupt Controller v3 and v4](Learn the architecture - Arm Generic Interrupt Controller v3 and v4)
+4.[Learn the architecture - Arm Generic Interrupt Controller v3 and v4](https://developer.arm.com/documentation/198123/0302)
 
 # Virtualization
 1.[Learn the architecture - AArch64 virtualization](https://developer.arm.com/documentation/102142/latest/)
