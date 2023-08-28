@@ -11,6 +11,8 @@ attributes and properties](https://developer.arm.com/documentation/102376/0200)
 # Virtualization
 1.[Learn the architecture - AArch64 virtualization](https://developer.arm.com/documentation/102142/latest/)
 
+2.[Architecture of the Kernel-based Virtual Machine (KVM)](http://www.linux-kongress.org/2010/slides/KVM-Architecture-LK2010.pdf)
+
 # Operating System
 1.[xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2023/xv6/book-riscv-rev3.pdf)
 2.[]()
