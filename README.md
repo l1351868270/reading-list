@@ -21,4 +21,6 @@ attributes and properties](https://developer.arm.com/documentation/102376/0200)
 
 # Operating System
 1.[xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2023/xv6/book-riscv-rev3.pdf)
-2.[]()
+
+# Deepling Learning
+1.[Learn the architecture - Introducing Neon](https://developer.arm.com/documentation/102474/0100)
