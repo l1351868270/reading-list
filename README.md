@@ -24,3 +24,5 @@ attributes and properties](https://developer.arm.com/documentation/102376/0200)
 
 # Deepling Learning
 1.[Learn the architecture - Introducing Neon](https://developer.arm.com/documentation/102474/0100)
+
+2.[Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/pdf/2205.05198.pdf)
