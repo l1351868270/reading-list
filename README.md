@@ -28,3 +28,5 @@ attributes and properties](https://developer.arm.com/documentation/102376/0200)
 2.[Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/pdf/2205.05198.pdf)
 
 3.[Learning representations by back-propagating errors](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
+
+4.[PyTorch internals](http://web.mit.edu/~ezyang/Public/pytorch-internals.pdf)
