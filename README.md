@@ -32,3 +32,5 @@ attributes and properties](https://developer.arm.com/documentation/102376/0200)
 4.[PyTorch internals](http://web.mit.edu/~ezyang/Public/pytorch-internals.pdf)
 
 5.[Parallel Thread Execution](https://docs.nvidia.com/cuda/parallel-thread-execution/)
+
+6.[Modeling Deep Learning Accelerator Enabled GPUs](https://arxiv.org/pdf/1811.08309.pdf)
