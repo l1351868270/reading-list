@@ -48,3 +48,5 @@ attributes and properties](https://developer.arm.com/documentation/102376/0200)
 3.[GPU Framebuffer Memory: Understanding Tiling](https://developer.samsung.com/galaxy-gamedev/resources/articles/gpu-framebuffer.html)
 
 4.[Life of a triangle - NVIDIA's logical pipeline](https://developer.nvidia.com/content/life-triangle-nvidias-logical-pipeline)
+
+5.[General-Purpose Graphics Processor Architecture](https://picture.iczhiku.com/resource/eetop/WHKdgQhRWGRojBxB.pdf)
