@@ -37,3 +37,14 @@ attributes and properties](https://developer.arm.com/documentation/102376/0200)
 1.[Parallel Thread Execution](https://docs.nvidia.com/cuda/parallel-thread-execution/)
 
 2.[CUDA Binary Utilities](https://docs.nvidia.com/cuda/cuda-binary-utilities/index.html#)
+
+3.[]()
+
+# GPU
+1.[NVIDIA H100 Tensor Core GPU Architecture](https://resources.nvidia.com/en-us-tensor-core/gtc22-whitepaper-hopper)
+
+2.[Programming Guidelines and GPU Architecture Reasons Behind Them](https://on-demand.gputechconf.com/gtc/2013/presentations/S3466-Programming-Guidelines-GPU-Architecture.pdf)
+
+3.[GPU Framebuffer Memory: Understanding Tiling](https://developer.samsung.com/galaxy-gamedev/resources/articles/gpu-framebuffer.html)
+
+4.[Life of a triangle - NVIDIA's logical pipeline](https://developer.nvidia.com/content/life-triangle-nvidias-logical-pipeline)
