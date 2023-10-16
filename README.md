@@ -33,6 +33,8 @@ attributes and properties](https://developer.arm.com/documentation/102376/0200)
 
 5.[Modeling Deep Learning Accelerator Enabled GPUs](https://arxiv.org/pdf/1811.08309.pdf)
 
+6.[FlashAttention](https://arxiv.org/pdf/2205.14135.pdf)
+
 # Nvidia
 1.[Parallel Thread Execution](https://docs.nvidia.com/cuda/parallel-thread-execution/)
 
